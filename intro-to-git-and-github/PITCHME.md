@@ -1,5 +1,5 @@
-## Git and GutHub
-##### IoT in Africa | 2017
+## Git and GitHub
+##### Global Code | 2018
 ![Git and Github](/assets/img/git-910x380.png)
 Note:
 This is a great piece to do early on because it means you don't have to cargo-cult git into the early teaching sessions, and you can introduce some professional guidance ("use github!") very early in the programme.
@@ -121,13 +121,13 @@ their local <--> their github remote <--> my github clone <--> my local
 ```sh
 $ git add remote origin https://github.com/iotinafrica/material.git
 [git add, commit...]
-$ git remotes
+$ git remote -v
 ```
 Note:
 Works even without collaboration. Or you can grant someone perms to push to your repo. Or use the pull-request model
 
 +++
-##Using GitHub
+## Using GitHub
 * https://www.github.com
   * create an account
   * create a new repository
@@ -165,6 +165,8 @@ If we're working in a team
 +++
 ## Forking with github
 Try it!
-* Fork iotinafrica/2017
-* Add your github userid to `classlist`
+* Fork `glblcd/ClassBook2018`
+* Each site will have a sub-directory
+* Add your github userid to a new line in `<org>/classlist`
+* Upload your photo to `<org>/<username>.jpg` (keep resolution / size low)
 * Create a "pull request" for me to merge your change
