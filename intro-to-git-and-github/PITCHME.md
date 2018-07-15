@@ -167,6 +167,6 @@ If we're working in a team
 Try it!
 * Fork `glblcd/ClassBook2018`
 * Each site will have a sub-directory
-* Add your github userid to `ORG/classlist`
-* Upload your photo to `ORG/YourName.jpg` (keep resolution / size low)
+* Add your github userid to a new line in `<org>/classlist`
+* Upload your photo to `<org>/<username>.jpg` (keep resolution / size low)
 * Create a "pull request" for me to merge your change
