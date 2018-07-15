@@ -1,4 +1,4 @@
-## Git and GutHub
+## Git and GitHub
 ##### Global Code | 2018
 ![Git and Github](/assets/img/git-910x380.png)
 Note:
@@ -127,7 +127,7 @@ Note:
 Works even without collaboration. Or you can grant someone perms to push to your repo. Or use the pull-request model
 
 +++
-##Using GitHub
+## Using GitHub
 * https://www.github.com
   * create an account
   * create a new repository
