@@ -165,6 +165,8 @@ If we're working in a team
 +++
 ## Forking with github
 Try it!
-* Fork iotinafrica/2018
-* Add your github userid to `classlist`
+* Fork `glblcd/ClassBook2018`
+* Each site will have a sub-directory
+* Add your github userid to `ORG/classlist`
+* Upload your photo to `ORG/YourName.jpg` (keep resolution / size low)
 * Create a "pull request" for me to merge your change
